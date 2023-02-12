@@ -14,6 +14,6 @@
   <img align="center" alt="vuejs" height="30" width="80" src="https://img.shields.io/badge/CSS-3799D6?&style=for-the-badge&logo=css3&logoColor=white" />
 </div><br>
 
-## <a href="https://reconhecimento-de-voz-seven.vercel.app/">Acesse 🔗</a>
+## <a href="https://reconhecimento-de-voz-seven.vercel.app/" target="_blank">Acesse 🔗</a>
 </div>
 </div>
