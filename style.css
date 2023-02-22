@@ -9,13 +9,14 @@
 body {
   background-color: var(--bg-color);
   color: var(--primary-color);
+  max-width: 1024px;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   text-align: center;
-  margin: 0;
+  margin: 0 auto;
   font-family: var(--font-family);
 }
 
@@ -30,10 +31,11 @@ h2 {
 h3 {
   font-size: 2em;
   margin-top: 20px;
+  font-weight: bold;
 }
 
 .mensagem {
-  font-size: 1.5em;
+  font-size: 1em;
   margin-top: 40px;
 }
 
@@ -55,9 +57,9 @@ h3 {
   cursor: pointer;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 600px) {
   body {
-    max-width: 400px;
+    max-width: 600px;
   }
 
   h1 {
